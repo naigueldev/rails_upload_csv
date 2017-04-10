@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manager: MyString
+  status: MyString
+  terms: 1
+
+two:
+  manager: MyString
+  status: MyString
+  terms: 1
